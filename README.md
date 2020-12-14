@@ -4,7 +4,7 @@
 
 This repositry code helps to retrive country name when country code is given. 
 
-##CLI DIR##
+## CLI DIR ##
 1. API data from https://www.travel-advisory.info/api  is stored in a file called data.json.
 2. country_source_code.py helps to retrive the country name by reading data.json when we pass country code as cmd line argument.
 3. Executiton of script takes singe country code as well as multiple country codes as the cmd line argument. For example:
